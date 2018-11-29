@@ -1,8 +1,6 @@
 .DS_STORE
-.ipynb_checkpoints
+*.ipynb_checkpoints
 __pycache__/
 data/
 private/
-.ipynb
-
-*/data/*
+*.ipynb
